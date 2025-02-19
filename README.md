@@ -32,8 +32,4 @@ $ tsx .
 **إذا كنت تريد استخدامه مباشر و يعمل على الهاتف أيضًا.** [YouTube](https://www.youtube.com/watch?v=mBpyYZm4uzA&t=11s)
 ----
 
-![image](https://imgur.com/a/qdcS5VY)
-
-
-
-### شكرا لدعمكم!
+![image](https://imgur.com/a/qdcS5VY
